@@ -1,154 +1,95 @@
-# Hi 👋, I'm Harsh Yadav
+<h1 align="center">Hi 👋, I'm Harsh Yadav</h1>
+<h3 align="center">Full Stack Developer | CSE Student @ IET Khandari, Agra</h3>
 
-### Full Stack Developer | CSE Student | AI Enthusiast
-
-> Building scalable web applications and exploring AI-powered solutions.
-
-📍 Agra, Uttar Pradesh, India
-🎓 CSE @ IET Khandari, Agra
-💼 Ex Full Stack Developer Intern @ Umid Infotech
-🎯 Aspiring Software Engineer
-
----
+<br/>
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science & Engineering student and Full Stack Developer** passionate about building real-world applications and solving practical problems through technology.
+- 🎓 B.Tech in Computer Science & Engineering — **IET Khandari, Agra** (Dr. Bhim Rao Ambedkar University)
+- 💼 Ex Full Stack Developer Intern @ **Umid Infotech** — built and managed a production web app using React, Node.js, PostgreSQL & Prisma ORM
+- 🚀 Currently building a **Doctor Registration & Management Platform** with AI integration planned
+- 🏆 **Top 130 Finalist** — Code Wars Hackathon, Jaipur
+- 🎯 Goal: Land an SDE role at a product-based company
+- 📍 Agra, Uttar Pradesh
 
-* 🎓 B.Tech in Computer Science & Engineering — **IET Khandari, Agra**
-* 💼 Ex **Full Stack Developer Intern @ Umid Infotech**
-* 🚀 Building full-stack applications with modern web technologies
-* 🤖 Currently exploring **AI/ML integration with full-stack applications**
-* 🧠 Improving my **DSA, backend development & system design** skills
-* 🏆 **Top 130 Finalist** — Code Wars Hackathon, Jaipur
-* 🇮🇳 Participated in **Smart India Hackathon & national-level hackathons**
-* 🎯 Goal: **SDE role at a product-based company**
-
----
+<br/>
 
 ## 🛠️ Tech Stack
 
-### Languages
+**Languages**
 
-`C` `C++` `Java` `JavaScript`
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend
+**Frontend**
 
-`HTML5` `CSS3` `React.js` `Bootstrap` `Vite`
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend
+**Backend**
 
-`Node.js` `Express.js` `REST APIs`
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-### Database & ORM
+**Database**
 
-`MongoDB` `PostgreSQL` `Prisma`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-### Tools
+**Tools**
 
-`Git` `GitHub` `VS Code` `npm`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
----
+<br/>
 
 ## 🚀 Featured Projects
 
-### 🏥 Doctor Registration & Management Platform
+| Project | Tech Stack | Description |
+|--------|-----------|-------------|
+| 🏥 Doctor Registration & Management App | React, Node.js, PostgreSQL, Prisma | Full-stack production-grade doctor portal with auth & role-based access |
+| 🏛️ Nagar Nigam Complaint Portal | Node.js, Express, MongoDB | Civic complaint & service request platform for local government |
+| 🌍 Virtual 360° Tourist Platform | HTML, CSS, JavaScript | Immersive 360° virtual tour experience for tourist destinations |
+| 🎓 Student Data Collection App | Node.js, Express, MongoDB | Admin dashboard for managing college student academic records |
+| 🍫 Cadbury Webpage Clone | HTML, CSS, JavaScript | Pixel-perfect responsive UI clone with animations |
+| 🌸 Flower Aura Clone | HTML, CSS, JavaScript | E-commerce UI clone with product listing and cart design |
 
-**React • Node.js • PostgreSQL • Prisma**
-
-* Full-stack doctor management platform
-* Authentication and role-based access
-* Structured backend architecture
-* Designed with scalability and maintainability in mind
-
-### 🏛️ Nagar Nigam Complaint Portal
-
-**Node.js • Express.js • MongoDB**
-
-* Civic complaint and service-request platform
-* Backend API development
-* Complaint management workflow
-
-### 🌍 Virtual 360° Tourist Platform
-
-**HTML • CSS • JavaScript**
-
-* Interactive virtual tourism experience
-* Destination exploration through 360° views
-* Responsive frontend experience
-
-### 🎓 Student Data Management System
-
-**Node.js • Express.js • MongoDB**
-
-* Admin dashboard for student records
-* Academic data management
-* CRUD-based backend architecture
-
-### 🍫 Cadbury Web Clone
-
-**HTML • CSS • JavaScript**
-
-* Responsive UI recreation
-* Animations and interactive elements
-* Focus on pixel-accurate design
-
-### 🌸 Flower Aura E-Commerce Clone
-
-**HTML • CSS • JavaScript**
-
-* E-commerce interface
-* Product listing and cart UI
-* Responsive design
-
----
+<br/>
 
 ## 🏆 Achievements
 
-* 🥇 **Top 130 Finalist** — Code Wars Hackathon, Jaipur
-* 🇮🇳 **Participant** — Smart India Hackathon (SIH)
-* 🏙️ **Participant** — Hack4Delhi
-* 💡 **Participant** — HACKSHODH
-* ⚡ **Participant** — Hackbase
-* 🎤 **3rd Position** — College Debate Competition
+- 🥇 **Top 130 Finalist** — Code Wars Hackathon, Jaipur (National Level)
+- 🇮🇳 **Participant** — Smart India Hackathon (SIH) — National Level
+- 🏙️ **Participant** — Hack4Delhi — National Level Hackathon, Delhi
+- 💻 **Participant** — HACKSHODH — College Level Coding Competition, IET Khandari
+- ⚡ **Participant** — Hackbase — College Level Hackathon, IET Khandari
+- 🎤 **3rd Position** — College Debate Competition, IET Khandari
 
----
-
-## 📚 Currently Learning
-
-### Full Stack → AI Developer
-
-* Advanced MERN Stack
-* Backend Architecture
-* REST API Design
-* Authentication & Authorization
-* PostgreSQL & MongoDB
-* Data Structures & Algorithms
-* AI / ML Fundamentals
-* AI Integration in Web Applications
-
----
+<br/>
 
 ## 📊 GitHub Stats
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshajs816\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshajs816&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshajs816&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshajs816\&layout=compact\&theme=tokyonight\&hide_border=true)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=harshajs816\&theme=tokyonight\&hide_border=true)
+## 📫 Connect With Me
 
----
-
-## 🤝 Connect With Me
-
-📧 **Email:** [officialharshajs@gmail.com](mailto:officialharshajs@gmail.com)
-
-🐙 **GitHub:** https://github.com/harshajs816
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialharshajs@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshajs816)
 
 ---
 
-### 💡 Open to
-
-`Internships` • `SDE Opportunities` • `Hackathons` • `Open Source` • `Collaborations`
-
-> **Build. Learn. Ship. Repeat.**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshajs816&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
